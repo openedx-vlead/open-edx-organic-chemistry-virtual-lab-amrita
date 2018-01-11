@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "OCV-AU", 
+            "course": "chemsc10", 
             "name": "organic_chemistry.jpg", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "organic_chemistry.jpg", 
-        "filename": "asset-v1:Amrita-University+OCV-AU+Anytime+type@asset+block@organic_chemistry.jpg", 
+        "filename": "asset-v1:Virtual-Labs+chemsc10+Anytime+type@asset+block@organic_chemistry.jpg", 
         "import_path": "organic_chemistry.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "OCV-AU", 
+            "Virtual-Labs", 
+            "chemsc10", 
             "thumbnail", 
             "organic_chemistry.jpg", 
             null
